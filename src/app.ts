@@ -29,7 +29,7 @@ app.use("/auth", auth);
 //TESTING ONLY DELETE LATER
 app.get("/db", async (req, res) => {
     try {
-        const users = await db.query("SELECT * FROM users");
+        const users = await db.query("SELECT id, firstname  FROM users");
         const teams = await db.query("SELECT * FROM teams");
         const roles = await db.query("SELECT * FROM roles");
         const member_statuses = await db.query("SELECT * FROM member_statuses");
