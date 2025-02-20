@@ -6,15 +6,20 @@
   <p align="center">
     An app for event organizers who HATE using jira to manage their teams during an event
     <br />
-    <a href="https://www.figma.com/proto/zdClLWsWxm9L3KLzr2RWSZ/Slushy?node-id=166-2027&t=IY5OepGrJJfvrCRC-1">View walkthroug</a>
+    <br />
+    <a href="https://www.loom.com/share/512a732cf3b54ed18b6744bfe7f87fd4?sid=c20e0545-f66f-4c09-89cf-70a342ede87c">View walkthrough and decision making</a>
+    <br />
     ·
-    <a href="https://www.figma.com/proto/zdClLWsWxm9L3KLzr2RWSZ/Slushy?node-id=166-2027&t=IY5OepGrJJfvrCRC-1">View demo</a>
+    <a href="https://www.loom.com/share/f574c3b7a9594f2489b265f10bd5f559?sid=efdebc47-3107-4042-8f03-040beedac46f">View backend walkthrough</a>
+    <br />
     ·
     <a href="https://www.figma.com/proto/zdClLWsWxm9L3KLzr2RWSZ/Slushy?node-id=166-2027&t=IY5OepGrJJfvrCRC-1">View prototype</a>
+    <br />
     ·
     <a href="https://slushybe.enddesign.co/db">Check backend</a>
+    <br />
     ·
-    <a href="https://github.com/wickathou/slushyfe">Frontend</a>
+    <a href="https://github.com/wickathou/slushyfe">Frontend (Not implemented)</a>
   </p>
 
   <p>
