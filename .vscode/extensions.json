@@ -1,6 +1,5 @@
 {
-  "recommendations": [
-    "mtxr.sqltools",
-    "mtxr.sqltools-driver-pg"
-  ]
+    "recommendations": [
+        "dbaeumer.vscode-eslint"
+    ]
 }
